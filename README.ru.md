@@ -1,6 +1,6 @@
 # Обновление 3D-принтера Infimech TX(Flyingbear S1) с Klipper 10 до Klipper 12
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/jimmyjon711/InfimechTxUpgrade/blob/main/README.md)
 
 Руководство/скрипт все еще находятся в стадии разработки, но этого уже достаточно для обновления до klipper 12.
 Моя конечная цель - выяснить, какие службы не нужны (да, я думаю, что такие есть),

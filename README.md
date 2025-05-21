@@ -1,7 +1,7 @@
 # Updating Infimech TX 3D Printer from Klipper 10 to Klipper 12
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.md)
-[![ru](https://img.shields.io/badge/lang-ru-yellow.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.ru.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/jimmyjon711/InfimechTxUpgrade/blob/main/README.md)
+[![ru](https://img.shields.io/badge/lang-ru-yellow.svg)](https://github.com/jimmyjon711/InfimechTxUpgrade/blob/main/README.ru.md)
 
 Guide/script still a work in progress but its good enough to upgrade to klipper 12. My end goal is to figure out what services are not needed(yes I think there are some) and remove the un-necessary clutter in the MKS user folder.
 
